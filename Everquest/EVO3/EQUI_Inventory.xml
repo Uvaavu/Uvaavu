@@ -2838,7 +2838,7 @@
     <Pieces>IW_ExpPercHold</Pieces>
     <Pieces>IW_ExpGauge</Pieces>
     <Pieces>IW_STR</Pieces>
-    <Pieces>IW_STRNumber</Pieces>
+    <Pieces>IW_STRNumber</Pieces>corr
     <Pieces>IW_STA</Pieces>
     <Pieces>IW_STANumber</Pieces>
     <Pieces>IW_AGI</Pieces>
@@ -3436,6 +3436,51 @@
     <Location>
       <X>40</X>
       <Y>236</Y>
+    </Location>
+    <Size>
+      <CX>55</CX>
+      <CY>14</CY>
+    </Size>
+    <Text>0</Text>
+    <TextColor>
+      <R>255</R>
+      <G>255</G>
+      <B>255</B>
+    </TextColor>
+    <NoWrap>true</NoWrap>
+    <AlignCenter>false</AlignCenter>
+    <AlignRight>true</AlignRight>
+    <AlignLeft>false</AlignLeft>
+  </Label>
+  <Label item="IWS_Luck">
+    <Font>2</Font>
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>5</X>
+      <Y>250</Y>
+    </Location>
+    <Size>
+      <CX>120</CX>
+      <CY>14</CY>
+    </Size>
+    <Text>Luck</Text>
+    <TextColor>
+      <R>90</R>
+      <G>220</G>
+      <B>255</B>
+    </TextColor>
+    <NoWrap>true</NoWrap>
+    <AlignCenter>false</AlignCenter>
+    <AlignRight>false</AlignRight>
+    <TooltipReference>Has a chance to improve the effects of Heroic Mods, skill successes, and critical potency</TooltipReference>
+  </Label>
+  <Label item="IWS_CurrentLuck">
+    <Font>2</Font>
+    <EQType>416</EQType>
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>40</X>
+      <Y>250</Y>
     </Location>
     <Size>
       <CX>55</CX>
@@ -4996,6 +5041,8 @@
     <Pieces>IWS_HastePercent</Pieces>
     <Pieces>IWS_Velocity</Pieces>
     <Pieces>IWS_CurrentVelocity</Pieces>
+    <Pieces>IWS_Luck</Pieces>
+    <Pieces>IWS_CurrentLuck</Pieces>
     <Pieces>IWS_Seperator1</Pieces>
     <!-- Attributes -->
     <Pieces>IWS_Strength</Pieces>
