@@ -302,12 +302,6 @@
     <BottomAnchorOffset>9</BottomAnchorOffset>
     <LeftAnchorOffset>710</LeftAnchorOffset>
     <RightAnchorOffset>777</RightAnchorOffset>
-<!--
-    <TopAnchorOffset>94</TopAnchorOffset>
-    <BottomAnchorOffset>79</BottomAnchorOffset>
-    <LeftAnchorOffset>479</LeftAnchorOffset>
-    <RightAnchorOffset>564</RightAnchorOffset>
--->
     <TopAnchorToTop>false</TopAnchorToTop>
     <BottomAnchorToTop>false</BottomAnchorToTop>
     <LeftAnchorToLeft>true</LeftAnchorToLeft>
@@ -321,12 +315,6 @@
     <BottomAnchorOffset>7</BottomAnchorOffset>
     <LeftAnchorOffset>787</LeftAnchorOffset>
     <RightAnchorOffset>871</RightAnchorOffset>
-<!--
-    <TopAnchorOffset>77</TopAnchorOffset>
-    <BottomAnchorOffset>53</BottomAnchorOffset>
-    <LeftAnchorOffset>479</LeftAnchorOffset>
-    <RightAnchorOffset>564</RightAnchorOffset>
--->
     <TopAnchorToTop>false</TopAnchorToTop>
     <BottomAnchorToTop>false</BottomAnchorToTop>
     <LeftAnchorToLeft>true</LeftAnchorToLeft>
@@ -359,12 +347,6 @@
     <BottomAnchorOffset>5</BottomAnchorOffset>
     <LeftAnchorOffset>887</LeftAnchorOffset>
     <RightAnchorOffset>971</RightAnchorOffset>
-<!--
-    <TopAnchorOffset>129</TopAnchorOffset>
-    <BottomAnchorOffset>99</BottomAnchorOffset>
-    <LeftAnchorOffset>479</LeftAnchorOffset>
-    <RightAnchorOffset>564</RightAnchorOffset>
--->
     <TopAnchorToTop>false</TopAnchorToTop>
     <BottomAnchorToTop>false</BottomAnchorToTop>
     <LeftAnchorToLeft>true</LeftAnchorToLeft>
@@ -411,137 +393,6 @@
     </TextColor>
     <Template>BDT_Normal</Template>
   </Button>
-  <InvSlot item="BIGB_SharedBankSlot0">
-    <ScreenID>BIGB_SharedBankSlot0</ScreenID>
-    <RelativePosition>true</RelativePosition>
-    <AutoStretch>true</AutoStretch>
-<!--
-    <TopAnchorOffset>35</TopAnchorOffset>
-    <BottomAnchorOffset>13</BottomAnchorOffset>
-    <LeftAnchorOffset>497</LeftAnchorOffset>
-    <RightAnchorOffset>519</RightAnchorOffset>
--->
-    <TopAnchorToTop>false</TopAnchorToTop>
-    <BottomAnchorToTop>false</BottomAnchorToTop>
-    <LeftAnchorToLeft>true</LeftAnchorToLeft>
-    <RightAnchorToLeft>true</RightAnchorToLeft>
-    <Background>A_RecessedBox</Background>
-    <EQType>inventory/SharedBank 0</EQType>
-  </InvSlot>
-  <InvSlot item="BIGB_SharedBankSlot1">
-    <ScreenID>BIGB_SharedBankSlot1</ScreenID>
-    <RelativePosition>true</RelativePosition>
-    <AutoStretch>true</AutoStretch>
-<!--
-    <TopAnchorOffset>35</TopAnchorOffset>
-    <BottomAnchorOffset>13</BottomAnchorOffset>
-    <LeftAnchorOffset>525</LeftAnchorOffset>
-    <RightAnchorOffset>547</RightAnchorOffset>
--->
-    <TopAnchorToTop>false</TopAnchorToTop>
-    <BottomAnchorToTop>false</BottomAnchorToTop>
-    <LeftAnchorToLeft>true</LeftAnchorToLeft>
-    <RightAnchorToLeft>true</RightAnchorToLeft>
-    <Background>A_RecessedBox</Background>
-    <EQType>inventory/SharedBank 1</EQType>
-  </InvSlot>
-  <InvSlot item="BIGB_SharedBankSlot2">
-    <ScreenID>BIGB_SharedBankSlot2</ScreenID>
-    <RelativePosition>false</RelativePosition>
-    <AutoStretch>true</AutoStretch>
-<!--
-    <TopAnchorOffset>85</TopAnchorOffset>
-    <BottomAnchorOffset>63</BottomAnchorOffset>
-    <LeftAnchorOffset>497</LeftAnchorOffset>
-    <RightAnchorOffset>519</RightAnchorOffset>
--->
-    <TopAnchorToTop>false</TopAnchorToTop>
-    <BottomAnchorToTop>false</BottomAnchorToTop>
-    <LeftAnchorToLeft>true</LeftAnchorToLeft>
-    <RightAnchorToLeft>true</RightAnchorToLeft>
-    <Background>A_RecessedBox</Background>
-    <EQType>inventory/SharedBank 2</EQType>
-  </InvSlot>
-  <InvSlot item="BIGB_SharedBankSlot3">
-    <ScreenID>BIGB_SharedBankSlot3</ScreenID>
-    <RelativePosition>false</RelativePosition>
-    <AutoStretch>true</AutoStretch>
-<!--
-    <TopAnchorOffset>85</TopAnchorOffset>
-    <BottomAnchorOffset>63</BottomAnchorOffset>
-    <LeftAnchorOffset>525</LeftAnchorOffset>
-    <RightAnchorOffset>547</RightAnchorOffset>
--->
-    <TopAnchorToTop>false</TopAnchorToTop>
-    <BottomAnchorToTop>false</BottomAnchorToTop>
-    <LeftAnchorToLeft>true</LeftAnchorToLeft>
-    <RightAnchorToLeft>true</RightAnchorToLeft>
-    <Background>A_RecessedBox</Background>
-    <EQType>inventory/SharedBank 3</EQType>
-  </InvSlot>
-  <InvSlot item="BIGB_SharedBankSlot4">
-    <ScreenID>BIGB_SharedBankSlot4</ScreenID>
-    <RelativePosition>false</RelativePosition>
-    <AutoStretch>true</AutoStretch>
-<!--
-    <TopAnchorOffset>135</TopAnchorOffset>
-    <BottomAnchorOffset>113</BottomAnchorOffset>
-    <LeftAnchorOffset>497</LeftAnchorOffset>
-    <RightAnchorOffset>519</RightAnchorOffset>
--->
-    <TopAnchorToTop>false</TopAnchorToTop>
-    <BottomAnchorToTop>false</BottomAnchorToTop>
-    <LeftAnchorToLeft>true</LeftAnchorToLeft>
-    <RightAnchorToLeft>true</RightAnchorToLeft>
-    <Background>A_RecessedBox</Background>
-    <EQType>inventory/SharedBank 4</EQType>
-  </InvSlot>
-  <InvSlot item="BIGB_SharedBankSlot5">
-    <ScreenID>BIGB_SharedBankSlot5</ScreenID>
-    <RelativePosition>false</RelativePosition>
-    <AutoStretch>true</AutoStretch>
-<!--
-    <TopAnchorOffset>135</TopAnchorOffset>
-    <BottomAnchorOffset>113</BottomAnchorOffset>
-    <LeftAnchorOffset>525</LeftAnchorOffset>
-    <RightAnchorOffset>547</RightAnchorOffset>
--->
-    <TopAnchorToTop>false</TopAnchorToTop>
-    <BottomAnchorToTop>false</BottomAnchorToTop>
-    <LeftAnchorToLeft>true</LeftAnchorToLeft>
-    <RightAnchorToLeft>true</RightAnchorToLeft>
-    <Background>A_RecessedBox</Background>
-    <EQType>inventory/SharedBank 5</EQType>
-  </InvSlot>
-
-  <TileLayoutBox item="SharedBankSlots">
-    <RelativePosition>true</RelativePosition>
-    <AutoStretch>true</AutoStretch>
-    <TopAnchorOffset>85</TopAnchorOffset>
-    <BottomAnchorOffset>63</BottomAnchorOffset>
-<!--
-    <LeftAnchorOffset>548</LeftAnchorOffset>
-    <RightAnchorOffset>1046</RightAnchorOffset>
--->
-    <TopAnchorToTop>false</TopAnchorToTop>
-    <BottomAnchorToTop>false</BottomAnchorToTop>
-    <LeftAnchorToLeft>true</LeftAnchorToLeft>
-    <RightAnchorToLeft>true</RightAnchorToLeft>
-    <Style_Transparent>true</Style_Transparent>
-    <Spacing>0</Spacing>
-    <SecondarySpacing>22</SecondarySpacing>
-    <HorizontalFirst>true</HorizontalFirst>
-    <AnchorToTop>true</AnchorToTop>
-    <AnchorToLeft>true</AnchorToLeft>
-    <FirstPieceTemplate>true</FirstPieceTemplate>
-    <Pieces>BIGB_SharedBankSlot0</Pieces>
-    <Pieces>BIGB_SharedBankSlot1</Pieces>
-    <Pieces>BIGB_SharedBankSlot2</Pieces>
-    <Pieces>BIGB_SharedBankSlot3</Pieces>
-    <Pieces>BIGB_SharedBankSlot4</Pieces>
-    <Pieces>BIGB_SharedBankSlot5</Pieces>
-  </TileLayoutBox>
-
   <InvSlot item="BIGB_BankSlot0">
     <ScreenID>BIGB_BankSlot0</ScreenID>
     <RelativePosition>true</RelativePosition>
@@ -690,14 +541,31 @@
     <Background>A_RecessedBox</Background>
     <EQType>inventory/Bank 23</EQType>
   </InvSlot>
+  <Label item="BIGB_SharedBagLabel">
+    <ScreenID>BIGB_SharedBagLabel</ScreenID>
+    <Font>5</Font>
+    <Size>
+      <CX>22</CX>
+      <CY>22</CY>
+    </Size>
+    <Text>S</Text>
+    <TextColor>
+      <R>255</R>
+      <G>255</G>
+      <B>255</B>
+    </TextColor>
+    <AlignCenter>true</AlignCenter>
+    <RelativePosition>true</RelativePosition>
+  </Label>
+
   <TileLayoutBox item="BIGB_Bags">
     <RelativePosition>true</RelativePosition>
     <Location>
       <X>25</X>
-      <Y>155</Y>
+      <Y>0</Y>
     </Location>
     <Size>
-      <CX>1140</CX>
+      <CX>1200</CX>
       <CY>22</CY>
     </Size>
     <Style_Transparent>true</Style_Transparent>
@@ -731,6 +599,7 @@
     <Pieces>BIGB_BankSlot21</Pieces>
     <Pieces>BIGB_BankSlot22</Pieces>
     <Pieces>BIGB_BankSlot23</Pieces>
+    <Pieces>BIGB_SharedBagLabel</Pieces>
   </TileLayoutBox>
   <InvSlot item="BB0_Slot0">
     <ScreenID>BB0_Slot0</ScreenID>
@@ -11897,47 +11766,77 @@
     <Pieces>inventory/SharedBank 5_Slot49</Pieces>
   </TileLayoutBox>
 
-	<HorizontalLayoutBox item="BB_BankLayoutTop">
-		<ScreenID>BankLayoutTop</ScreenID>
-		<DrawTemplate>WDT_Inner</DrawTemplate>
-		<AutoStretch>true</AutoStretch>
-		<LeftAnchorOffset>0</LeftAnchorOffset>
-		<TopAnchorOffset>0</TopAnchorOffset>
-		<RightAnchorOffset>0</RightAnchorOffset>
-		<BottomAnchorOffset>150</BottomAnchorOffset>
-		<TopAnchorToTop>true</TopAnchorToTop>
-		<BottomAnchorToTop>true</BottomAnchorToTop>
-		<LeftAnchorToLeft>true</LeftAnchorToLeft>
-		<RightAnchorToLeft>false</RightAnchorToLeft>
-		<Spacing>2</Spacing>
-		<Style_Border>false</Style_Border>
-		<Style_VScroll>false</Style_VScroll>
-		<Style_Transparent>true</Style_Transparent>
-		<Style_Dividers>false</Style_Dividers>
-		<ResizeLast>false</ResizeLast>
-    <Pieces>TileLayoutBox:SharedBankSlots</Pieces>
-<!--
+  <InvSlot item="BIGB_SharedBankSlot0">
+    <ScreenID>BIGB_SharedBankSlot0</ScreenID>
+    <RelativePosition>true</RelativePosition>
+    <Size>
+      <CX>44</CX>
+      <CY>44</CY>
+    </Size>
+    <Background>A_RecessedBox</Background>
+    <EQType>inventory/SharedBank 0</EQType>
+  </InvSlot>
+  <InvSlot item="BIGB_SharedBankSlot1">
+    <ScreenID>BIGB_SharedBankSlot1</ScreenID>
+    <RelativePosition>true</RelativePosition>
+    <Background>A_RecessedBox</Background>
+    <EQType>inventory/SharedBank 1</EQType>
+  </InvSlot>
+  <InvSlot item="BIGB_SharedBankSlot2">
+    <ScreenID>BIGB_SharedBankSlot2</ScreenID>
+    <RelativePosition>true</RelativePosition>
+    <Background>A_RecessedBox</Background>
+    <EQType>inventory/SharedBank 2</EQType>
+  </InvSlot>
+  <InvSlot item="BIGB_SharedBankSlot3">
+    <ScreenID>BIGB_SharedBankSlot3</ScreenID>
+    <RelativePosition>true</RelativePosition>
+    <Background>A_RecessedBox</Background>
+    <EQType>inventory/SharedBank 3</EQType>
+  </InvSlot>
+  <InvSlot item="BIGB_SharedBankSlot4">
+    <ScreenID>BIGB_SharedBankSlot4</ScreenID>
+    <RelativePosition>true</RelativePosition>
+    <Background>A_RecessedBox</Background>
+    <EQType>inventory/SharedBank 4</EQType>
+  </InvSlot>
+  <InvSlot item="BIGB_SharedBankSlot5">
+    <ScreenID>BIGB_SharedBankSlot5</ScreenID>
+    <RelativePosition>true</RelativePosition>
+    <Background>A_RecessedBox</Background>
+    <EQType>inventory/SharedBank 5</EQType>
+  </InvSlot>
+  <TileLayoutBox item="Bag_inventory/SharedBank">
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>1050</X>
+      <Y>30</Y>
+    </Location>
+    <Size>
+      <CX>44</CX>
+      <CY>590</CY>
+    </Size>
+    <Style_Transparent>true</Style_Transparent>
+    <Spacing>22</Spacing>
+    <SecondarySpacing>22</SecondarySpacing>
+    <HorizontalFirst>false</HorizontalFirst>
+    <AnchorToTop>true</AnchorToTop>
+    <AnchorToLeft>true</AnchorToLeft>
+    <FirstPieceTemplate>true</FirstPieceTemplate>
     <Pieces>BIGB_SharedBankSlot0</Pieces>
     <Pieces>BIGB_SharedBankSlot1</Pieces>
     <Pieces>BIGB_SharedBankSlot2</Pieces>
     <Pieces>BIGB_SharedBankSlot3</Pieces>
     <Pieces>BIGB_SharedBankSlot4</Pieces>
     <Pieces>BIGB_SharedBankSlot5</Pieces>
-    <Pieces>TileLayoutBox:Bag_inventory/SharedBank 0</Pieces>
-    <Pieces>TileLayoutBox:Bag_inventory/SharedBank 1</Pieces>
-    <Pieces>TileLayoutBox:Bag_inventory/SharedBank 2</Pieces>
-    <Pieces>TileLayoutBox:Bag_inventory/SharedBank 3</Pieces>
-    <Pieces>TileLayoutBox:Bag_inventory/SharedBank 4</Pieces>
-    <Pieces>TileLayoutBox:Bag_inventory/SharedBank 5</Pieces>
--->
-	</HorizontalLayoutBox>
+  </TileLayoutBox>
 	<HorizontalLayoutBox item="BB_BankLayoutMiddle">
 		<ScreenID>BankLayoutMiddle</ScreenID>
 		<DrawTemplate>WDT_Inner</DrawTemplate>
 		<AutoStretch>true</AutoStretch>
 		<LeftAnchorOffset>12</LeftAnchorOffset>
-		<TopAnchorOffset>180</TopAnchorOffset>
-		<RightAnchorOffset>22</RightAnchorOffset>
+		<TopAnchorOffset>24</TopAnchorOffset>
+		<RightAnchorOffset>12</RightAnchorOffset>
 		<BottomAnchorOffset>40</BottomAnchorOffset>
 		<TopAnchorToTop>true</TopAnchorToTop>
 		<BottomAnchorToTop>false</BottomAnchorToTop>
@@ -11973,13 +11872,14 @@
     <Pieces>TileLayoutBox:BIGB_Bag21</Pieces>
     <Pieces>TileLayoutBox:BIGB_Bag22</Pieces>
     <Pieces>TileLayoutBox:BIGB_Bag23</Pieces>
+    <Pieces>TileLayoutBox:Bag_inventory/SharedBank</Pieces>
   </HorizontalLayoutBox>
   <HorizontalLayoutBox item="BB_BankLayoutBottom">
 		<ScreenID>BankLayoutBottom</ScreenID>
 		<DrawTemplate>WDT_Inner</DrawTemplate>
 		<AutoStretch>true</AutoStretch>
 		<LeftAnchorOffset>0</LeftAnchorOffset>
-		<TopAnchorOffset>715</TopAnchorOffset>
+		<TopAnchorOffset>575</TopAnchorOffset>
 		<RightAnchorOffset>0</RightAnchorOffset>
 		<BottomAnchorOffset>0</BottomAnchorOffset>
 		<TopAnchorToTop>true</TopAnchorToTop>
@@ -12015,8 +11915,8 @@
       <Y>0</Y>
     </Location>
     <Size>
-      <CX>1150</CX>
-      <CY>800</CY>
+      <CX>1180</CX>
+      <CY>660</CY>
     </Size>
     <Text>Bank</Text>
     <Style_Transparent>false</Style_Transparent>
@@ -12028,7 +11928,6 @@
     <Style_Minimizebox>false</Style_Minimizebox>
     <Style_Border>true</Style_Border>
     <Style_Sizable>false</Style_Sizable>
-    <Pieces>HorizontalLayoutBox:BB_BankLayoutTop</Pieces>
     <Pieces>TileLayoutBox:BIGB_Bags</Pieces>
     <Pieces>HorizontalLayoutBox:BB_BankLayoutMiddle</Pieces>
     <Pieces>HorizontalLayoutBox:BB_BankLayoutBottom</Pieces>
