@@ -297,6 +297,78 @@
 		<Text>42</Text>
 		<Style_Tooltip>false</Style_Tooltip>
 	</Label>
+	<Label item="BW_Buff42_Place">
+		<ScreenID>Buff42Place</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Text>43</Text>
+		<Style_Tooltip>false</Style_Tooltip>
+	</Label>
+	<Label item="BW_Buff43_Place">
+		<ScreenID>Buff43Place</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Text>44</Text>
+		<Style_Tooltip>false</Style_Tooltip>
+	</Label>
+	<Label item="BW_Buff44_Place">
+		<ScreenID>Buff44Place</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Text>45</Text>
+		<Style_Tooltip>false</Style_Tooltip>
+	</Label>
+	<Label item="BW_Buff45_Place">
+		<ScreenID>Buff45Place</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Text>46</Text>
+		<Style_Tooltip>false</Style_Tooltip>
+	</Label>
+	<Label item="BW_Buff46_Place">
+		<ScreenID>Buff46Place</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Text>47</Text>
+		<Style_Tooltip>false</Style_Tooltip>
+	</Label>
+	<Label item="BW_Buff47_Place">
+		<ScreenID>Buff47Place</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Text>48</Text>
+		<Style_Tooltip>false</Style_Tooltip>
+	</Label>
+	<Label item="BW_Buff48_Place">
+		<ScreenID>Buff48Place</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Text>49</Text>
+		<Style_Tooltip>false</Style_Tooltip>
+	</Label>
+	<Label item="BW_Buff49_Place">
+		<ScreenID>Buff49Place</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Text>50</Text>
+		<Style_Tooltip>false</Style_Tooltip>
+	</Label>
+	<Label item="BW_Buff50_Place">
+		<ScreenID>Buff50Place</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Text>51</Text>
+		<Style_Tooltip>false</Style_Tooltip>
+	</Label>
+	<Label item="BW_Buff51_Place">
+		<ScreenID>Buff51Place</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Text>52</Text>
+		<Style_Tooltip>false</Style_Tooltip>
+	</Label>
+	<Label item="BW_Buff52_Place">
+		<ScreenID>Buff52Place</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Text>53</Text>
+		<Style_Tooltip>false</Style_Tooltip>
+	</Label>
+	<Label item="BW_Buff53_Place">
+		<ScreenID>Buff53Place</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Text>54</Text>
+		<Style_Tooltip>false</Style_Tooltip>
+	</Label>
 	<TileLayoutBox item="BW_Places">
 		<RelativePosition>true</RelativePosition>
 		<AutoStretch>true</AutoStretch>
