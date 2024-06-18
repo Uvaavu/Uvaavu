@@ -430,6 +430,18 @@
 			<Pieces>BW_Buff39_Place</Pieces>
 			<Pieces>BW_Buff40_Place</Pieces>
 			<Pieces>BW_Buff41_Place</Pieces>
+			<Pieces>BW_Buff42_Place</Pieces>
+			<Pieces>BW_Buff43_Place</Pieces>
+			<Pieces>BW_Buff44_Place</Pieces>
+			<Pieces>BW_Buff45_Place</Pieces>
+			<Pieces>BW_Buff46_Place</Pieces>
+			<Pieces>BW_Buff47_Place</Pieces>
+			<Pieces>BW_Buff48_Place</Pieces>
+			<Pieces>BW_Buff49_Place</Pieces>
+			<Pieces>BW_Buff50_Place</Pieces>
+			<Pieces>BW_Buff51_Place</Pieces>
+			<Pieces>BW_Buff52_Place</Pieces>
+			<Pieces>BW_Buff53_Place</Pieces>
 	</TileLayoutBox>
 	<Label item="BW_Buff_FrontSpacer">
 		<ScreenID>BuffFrontSpacer</ScreenID>
