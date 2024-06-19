@@ -491,11 +491,13 @@
 			<Pieces>BW_Buff46_Place</Pieces>
 			<Pieces>BW_Buff47_Place</Pieces>
 			<Pieces>BW_Buff48_Place</Pieces>
+<!--
 			<Pieces>BW_Buff49_Place</Pieces>
 			<Pieces>BW_Buff50_Place</Pieces>
 			<Pieces>BW_Buff51_Place</Pieces>
 			<Pieces>BW_Buff52_Place</Pieces>
 			<Pieces>BW_Buff53_Place</Pieces>
+-->
 	</TileLayoutBox>
 	<Label item="BW_Buff_FrontSpacer">
 		<ScreenID>BuffFrontSpacer</ScreenID>
@@ -1750,6 +1752,7 @@
 			<Pieces>BW_Buff48_Label</Pieces>
 			<Pieces>BW_Buff_BackSpacer</Pieces>
 	</Screen>
+<!--
 	<Label item="BW_Buff49_Label">
 		<ScreenID>Buff49Label</ScreenID>
 		<RelativePosition>true</RelativePosition>
@@ -1875,7 +1878,8 @@
 			<Pieces>BW_Buff53_Label</Pieces>
 			<Pieces>BW_Buff_BackSpacer</Pieces>
 	</Screen>
-	<TileLayoutBox item="BW_Labels">
+-->
+	  <TileLayoutBox item="BW_Labels">
 		<RelativePosition>true</RelativePosition>
 		<AutoStretch>true</AutoStretch>
 		<TopAnchorOffset>1</TopAnchorOffset>
@@ -1943,11 +1947,13 @@
 			<Pieces>Screen:BW_46_Screen</Pieces>
 			<Pieces>Screen:BW_47_Screen</Pieces>
 			<Pieces>Screen:BW_48_Screen</Pieces>
-			<Pieces>Screen:BW_49_Screen</Pieces>
+<!--
+		        <Pieces>Screen:BW_49_Screen</Pieces>
 			<Pieces>Screen:BW_50_Screen</Pieces>
 			<Pieces>Screen:BW_51_Screen</Pieces>
 			<Pieces>Screen:BW_52_Screen</Pieces>
 			<Pieces>Screen:BW_53_Screen</Pieces>
+-->
 	</TileLayoutBox>
 	<LayoutStrategy item="BW_Snap_Both">
 		<Padding>0</Padding>
