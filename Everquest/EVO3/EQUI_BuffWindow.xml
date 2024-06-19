@@ -1948,7 +1948,6 @@
 			<Pieces>Screen:BW_51_Screen</Pieces>
 			<Pieces>Screen:BW_52_Screen</Pieces>
 			<Pieces>Screen:BW_53_Screen</Pieces>
-			<Pieces>Screen:BW_53_Screen</Pieces>
 	</TileLayoutBox>
 	<LayoutStrategy item="BW_Snap_Both">
 		<Padding>0</Padding>
@@ -1976,8 +1975,8 @@
 		<Style_Sizable>true</Style_Sizable>
 		<Style_ClientMovable>true</Style_ClientMovable>
 		<Escapable>false</Escapable>
-			<Pieces>TileLayoutBox:BW_Places</Pieces>
-			<Pieces>TileLayoutBox:BW_Buttons</Pieces>
-			<Pieces>TileLayoutBox:BW_Labels</Pieces>
+		<Pieces>TileLayoutBox:BW_Places</Pieces>
+		<Pieces>TileLayoutBox:BW_Buttons</Pieces>
+		<Pieces>TileLayoutBox:BW_Labels</Pieces>
 	</Screen>
 </XML>
